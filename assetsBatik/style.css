@@ -325,7 +325,7 @@ p{
     transition: .5s;
 }
 nav a{
-  font-size: 20px;
+  font-size: 28px;
 }
 .menu-toggle{
     display: flex;
@@ -377,7 +377,7 @@ nav ul.slide{
     transition: .5s;
 }
 nav a{
-  font-size: 20px;
+  font-size: 24px;
 }
 .menu-toggle{
     display: flex;
